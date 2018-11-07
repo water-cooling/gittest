@@ -27,6 +27,7 @@
 		277D54F120629726005B75DA /* RuntimeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 277D54F020629726005B75DA /* RuntimeUITests.m */; };
 		277D55002062973C005B75DA /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 277D54FF2062973C005B75DA /* Student.m */; };
 		277D55022063EC99005B75DA /* draw.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277D55012063EC99005B75DA /* draw.swift */; };
+		278C6C1D2192EF7E00EEF823 /* ProductViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 278C6C1C2192EF7E00EEF823 /* ProductViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,8 @@
 		277D54FE2062973C005B75DA /* Student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
 		277D54FF2062973C005B75DA /* Student.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 		277D55012063EC99005B75DA /* draw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = draw.swift; sourceTree = "<group>"; };
+		278C6C1B2192EF7E00EEF823 /* ProductViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProductViewController.h; sourceTree = "<group>"; };
+		278C6C1C2192EF7E00EEF823 /* ProductViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProductViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +161,8 @@
 				273AE36120CF93B700FB6E70 /* RegiseTableViewCell.h */,
 				273AE36220CF93B700FB6E70 /* RegiseTableViewCell.m */,
 				273AE36320CF93B700FB6E70 /* RegiseTableViewCell.xib */,
+				278C6C1B2192EF7E00EEF823 /* ProductViewController.h */,
+				278C6C1C2192EF7E00EEF823 /* ProductViewController.m */,
 			);
 			path = Runtime;
 			sourceTree = "<group>";
@@ -321,6 +326,7 @@
 			files = (
 				277D54D120629725005B75DA /* ViewController.m in Sources */,
 				275E746920C90DF500A3FFE5 /* FourViewController.m in Sources */,
+				278C6C1D2192EF7E00EEF823 /* ProductViewController.m in Sources */,
 				273AE36420CF93B700FB6E70 /* RegiseTableViewCell.m in Sources */,
 				275E745A20C90D9C00A3FFE5 /* FirstViewController.m in Sources */,
 				277D55022063EC99005B75DA /* draw.swift in Sources */,
