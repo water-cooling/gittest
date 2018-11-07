@@ -23,6 +23,7 @@
     [super viewDidLoad];
     
 
+    NSString * title = @"valuename";
     NSString * name = @"-3.3232";
     
     double number = name.doubleValue;
